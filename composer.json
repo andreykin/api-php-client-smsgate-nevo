@@ -1,5 +1,5 @@
 {
-  "name": "andreykin/smsgate-nevo-php-client",
+  "name": "andreykin/api-smsgate-nevo-php-client",
   "require": {
     "php-http/client-implementation": "^1.0",
     "php-http/client-common": "^2.0",
